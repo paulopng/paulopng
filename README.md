@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Paulo
+- 👀 I’m interested in develop a software to control a parking lot
+- 🌱 I’m currently learning Full Stack Dev
+- 💞️ I’m looking to collaborate on Artificial Intelligence Software
+- 📫 How to reach me paulopng@gmail.com
